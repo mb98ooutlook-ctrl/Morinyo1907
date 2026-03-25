@@ -1,1 +1,1 @@
-m94184120@gmail.com
+https://github.com/google-gemini/gemini-skills
