@@ -1,1 +1,1 @@
-https://github.com/google-gemini/gemini-skills
+https://github.com/google-gemini/gemini-skills.@Morinyo1907
